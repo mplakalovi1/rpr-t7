@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<drzave>
+    <drzava naziv="BiH"  brojStanovnika="3500000" povrsina="50000" jedinicaPovrsine="km2">
+        <glavniGrad naziv="Sarajevo" brojStanovnika="300000">
+        </glavniGrad>
+    </drzava>
+    <drzava naziv="Spain" brojStanovnika="50000000" povrsina="300000" jedinicaPovrsine="km2">
+        <glavniGrad naziv="Madrid" brojStanovnika="3000000" >
+        </glavniGrad>
+    </drzava>
+</drzave>

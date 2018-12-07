@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<drzave>
+    <drzava>
+        <naziv>BIH</naziv>
+        <brojStanovnika>3500000</brojStanovnika>
+        <povrsina>51139</povrsina>
+        <jedinicaPovrsine>km2</jedinicaPovrsine>
+        <glavniGrad>
+            <naziv>Sarajevo</naziv>
+            <brojStanovnika>400000</brojStanovnika>
+        </glavniGrad>
+    </drzava>
+    <drzava>
+        <naziv>Spanija</naziv>
+        <brojStanovnika>50000000</brojStanovnika>
+        <povrsina>300000</povrsina>
+        <jedinicaPovrsine>km2</jedinicaPovrsine>
+        <glavniGrad>
+            <naziv>Madrid</naziv>
+            <brojStanovnika>3000000</brojStanovnika>
+        </glavniGrad>
+    </drzava>
+    <drzava>
+        <naziv>Engleska</naziv>
+        <brojStanovnika>45000000</brojStanovnika>
+        <povrsina>250000</povrsina>
+        <jedinicaPovrsine>km2</jedinicaPovrsine>
+        <glavniGrad>
+            <naziv>London</naziv>
+            <brojStanovnika>8000000</brojStanovnika>
+        </glavniGrad>
+    </drzava>
+</drzave>
