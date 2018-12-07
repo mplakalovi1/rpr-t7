@@ -2,7 +2,10 @@ package ba.unsa.rpr.tutorijal7;
 
 import java.io.Serializable;
 
-public class Grad implements Serializable {
+public class Grad implements Serializable {/*Da bi se klasa mogla serijalizirati u XML datoteku,
+potrebno je da slijedi strožiju JavaBean specifikaciju.
+To znači da mora imati konstruktor bez parametara i da svi atributi moraju posjedovati settere i gettere po specifikaciji.
+ */
     private String naziv = "";
     private int brojStanovnika;
     private double[] temperature = new double[1000];
